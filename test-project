@@ -1,0 +1,5 @@
+cd test-project
+echo "some changes" >> README.md
+git add README.md
+git commit -m "Some changes in readme"
+git push
